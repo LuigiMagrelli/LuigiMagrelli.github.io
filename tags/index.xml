@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luigi Magrelli · Potato</title>
-    <link>https://luigimagrelli.github.io/tags/</link>
+    <link>https://LuigiMagrelli.github.io/tags/</link>
     <description>Recent content in Tags on Luigi Magrelli · Potato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://luigimagrelli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LuigiMagrelli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
